@@ -11,7 +11,7 @@ Subsequent Position: {{alum.current}}</p>
 </div> {% endfor %}
 
 <br>
-## [Undergrad Interns](https://education.scripps.edu/undergraduate/)
+## [Undergrad Interns](url:)
 
 
 {% for sep in site.data.sep %}
@@ -26,7 +26,7 @@ Subsequent Position: {{sep.current}}<br>
 </div> {% endfor %}
 
 <br>
-## [High School Interns](https://education.scripps.edu/k-12-outreach/)
+## [High School Interns](url:)
 
 
 {% for visitors in site.data.visitors %}
