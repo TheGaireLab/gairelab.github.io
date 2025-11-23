@@ -17,4 +17,4 @@ Candidates will be encouraged to explore applying for extramural fellowships to 
 
 # Other
 
-Our lab welcomes both undergraduate and high school interns. 
+Our lab welcomes undergraduate interns. 
