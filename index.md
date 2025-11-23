@@ -18,12 +18,3 @@ Our lab combines field-based sampling, veterinary epidemiology, and high-through
 
 We are located in the School of Veterinary Medicine building in Amarillo, Texas.
 {: .welcomefont}
-
----
-
-## Training & Opportunities
-The Gaire Lab is committed to mentoring DVM students, graduate students, and postdoctoral scholars who are excited about One Health, epidemiology, and data-driven approaches to infectious disease and AMR.  
-{: .welcomefont}
-
-If you are interested in joining the lab or exploring potential collaborations, please visit the **Join** page or contact us by email.
-{: .welcomefont}
