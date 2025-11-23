@@ -13,7 +13,7 @@ group: contact
 
 <h4>Tara Gaire </h4>
 Assit. Professor  <br>
-School of Veterinary Medicine, Amarillo, Texas  <br>
+School of Veterinary Medicine, Texas Tech University  <br>
 email: tgaire (at) ttu.edu <br>
 tel: 
 
