@@ -13,8 +13,5 @@ The Gaire Lab is part of the School of Veterinary Medicine at Texas Tech Univers
 We study how antimicrobial resistance, pathogens, and the microbiome interact in livestock and other animal populations, and how those interactions impact animal health, food safety, and public health.
 {: .welcomefont}
 
-Our lab combines field-based sampling, veterinary epidemiology, and high-throughput sequencing to generate actionable evidence that can inform veterinarians, producers, and public health partners.
-{: .welcomefont}
-
 We are located in the School of Veterinary Medicine building in Amarillo, Texas.
 {: .welcomefont}
