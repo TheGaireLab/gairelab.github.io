@@ -13,8 +13,8 @@ group: contact
 
 <h4>Tara Gaire </h4>
 Assit. Professor  <br>
-TTU-SVM, TX  <br>
-email: gaire.tn (at) gmail.com <br>
+School of Veterinary Medicine, Amarillo, Texas  <br>
+email: tgaire (at) ttu.edu <br>
 tel: 
 
 </div>
@@ -60,7 +60,11 @@ TTU-SVM <br>
 <div class="col-md-4">
 
 <h4>Shipping Address</h4>
-
+Tara Nath Gaire
+Texas Tech University
+School of Veterinary Medicine
+Room# E243
+7671 Evans Dr, Amarillo, TX 79106
 
 </div>
 
