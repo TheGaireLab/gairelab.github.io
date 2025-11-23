@@ -1,17 +1,17 @@
 ---
-title: Wiseman Lab
+title: Gaire Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Wiseman Lab!
+# Welcome to the Gaire Lab!
 {: .display-3}
 
-We are part of the [Department of Molecular and Cellular Biology](https://www.scripps.edu/science-and-medicine/research-departments/molecular-and-cellular-biology/) at [Scripps Research](https://www.scripps.edu/).
+We are part of the [TTU-SVM] at [ Research]
 {: .welcomefont}
 
-Research in the lab is focused on defining the pathologic and therapeutic implications of stress-responsive signaling in etiologically-diverse diseases.
+Research in the lab is focused on diverse diseases.
 {: .welcomefont}
 
-We are located in the Molecular Biology building at Scripps Research in La Jolla, CA.
+We are located in the SVM building in AM, TX.
 {: .welcomefont}
