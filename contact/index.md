@@ -34,6 +34,7 @@ tel:
 <br>
 <hr>
 
+
 # Directions to the Gaire Lab
 
 <div class="row">
@@ -43,8 +44,6 @@ tel:
 <h4>Physical Address</h4>
 
 SVM Building<br>
-
-
 
 
 </div>
@@ -66,13 +65,3 @@ TTU-SVM <br>
 </div>
 
 </div>
-
-
-
-
-<!-- Our lab is in on the 
- -->
-
-
-
-
