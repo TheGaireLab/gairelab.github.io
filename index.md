@@ -21,14 +21,6 @@ We are located in the School of Veterinary Medicine building in Amarillo, Texas.
 
 ---
 
-## Research Focus
-We are broadly interested in:
-- Ecology and dynamics of antimicrobial resistance in livestock production systems  
-- Microbiome–pathogen interactions and their role in disease and treatment outcomes  
-- One Health–oriented surveillance and data integration across animal, environmental, and human domains  
-
----
-
 ## Training & Opportunities
 The Gaire Lab is committed to mentoring DVM students, graduate students, and postdoctoral scholars who are excited about One Health, epidemiology, and data-driven approaches to infectious disease and AMR.  
 {: .welcomefont}
