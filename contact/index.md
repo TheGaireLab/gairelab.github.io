@@ -33,6 +33,7 @@ tel:
 </div>
 <br>
 <hr>
+
 # Directions to the Gaire Lab
 
 <div class="row">
