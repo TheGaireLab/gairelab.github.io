@@ -33,7 +33,7 @@ tel:
 </div>
 <br>
 <hr>
-# Directions to the Wiseman Lab
+# Directions to the Gaire Lab
 
 <div class="row">
 
@@ -41,7 +41,7 @@ tel:
 
 <h4>Physical Address</h4>
 
-SVN Building<br>
+SVM Building<br>
 
 
 
@@ -75,4 +75,3 @@ TTU-SVM <br>
 
 
 
-<img class="img-fluid" src="/static/img/ScrippsMap.jpg" alt="Map of Mission Bay">
