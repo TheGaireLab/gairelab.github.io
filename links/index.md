@@ -20,9 +20,6 @@ group: links
 
 ##Teaching
 
----
-
-##Science as it should be done
 
 ---
 
