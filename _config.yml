@@ -1,7 +1,7 @@
-name: "Wiseman Lab"
-description: "This is the official web page for the R. Luke Wiseman Lab at Scripps Research."
+name: "Gaire Lab"
+description: "This is the official web page for the Gaire Lab at TTUSVM."
 
-url: "http://wisemanlab.github.io"
+url: "http://gairelab.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]
