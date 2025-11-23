@@ -24,4 +24,4 @@ group: research
 
 
 
-Check out our [publications]() and [lab news](https://gairelab.github.io/news/) for recent research highlights from the lab.
+Check out our [publications]() and [lab news]([https://gairelab.github.io](https://github.com/TheGaireLab/gairelab.github.io/news/) for recent research highlights from the lab.
