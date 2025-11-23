@@ -1,5 +1,5 @@
 
-### Lab Alumni (gone but not forgotten)
+### Lab Alumni 
 
 
 {% for alum in site.data.alumni %}
