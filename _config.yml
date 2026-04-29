@@ -1,14 +1,20 @@
 name: "Gaire Lab"
-description: "This is the official web page for the Gaire Lab at TTU-SVM."
+description: "Official website for the Gaire Lab at Texas Tech University School of Veterinary Medicine"
 
-url: "http://gairelab.github.io"
+url: "https://gairelab.github.io"
 baseurl: ""
 
-paginate: 5
-plugins: [jekyll-paginate]
-paginate_path: "news/page:num"
-
+# Permalink and Markdown
 permalink: pretty
 markdown: kramdown
-kramdown: 
-  parse_block_html: true
+
+# Pagination (for news)
+paginate: 5
+paginate_path: "news/page:num"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+
+# Optional: better build settings
+future: true
