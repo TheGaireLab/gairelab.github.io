@@ -4,7 +4,7 @@ layout: research
 group: research
 ---
 
-# Gaire Lab Research  
+# Gaire Lab Research
 
 The Gaire Lab studies how antimicrobial resistance (AMR), pathogens, and the microbiome interact across animal, environmental, and human domains. Our program integrates basic and applied, outcome-driven research that informs and supports animal health, food safety, and broader public health within a One Health framework.
 
@@ -24,28 +24,27 @@ We are broadly interested in:
 - **Quantitative and translational approaches to AMR mitigation**  
   – Design and evaluation of microbiome- and management-based interventions to reduce AMR and improve food safety  
 
-
 ---
 
-## *What are we doing?*
+## What are we doing?
 
 Current and emerging projects in the lab include:
 
 - **Longitudinal field studies in commercial livestock systems**  
-  Tracking AMR, microbiome composition, and pathogen carriage in food animalse 
+  Tracking AMR, microbiome composition, and pathogen carriage in food animals.
 
 - **Resistome and microbiome profiling using high-throughput sequencing**  
   Characterizing how antimicrobial use, host factors, and production practices shape antimicrobial resistance genes (ARGs) and microbial communities.
 
 - **One Health AMR surveillance pilots**  
-  Linking fecal, environmental, and, where appropriate, downstream data to understand transmission pathways and hotspots of AMR.
+  Linking fecal, environmental, and (where appropriate) downstream data to understand transmission pathways and hotspots of AMR.
 
 - **Method development for AMR risk assessment**  
   Building and testing analytical pipelines that connect field data, sequencing outputs, and epidemiologic models to support decision-making.
 
 ---
 
-## *How are we doing it?*
+## How are we doing it?
 
 We use an integrated toolkit that combines:
 
