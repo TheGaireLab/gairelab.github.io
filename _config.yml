@@ -1,20 +1,19 @@
 name: "Gaire Lab"
-description: "Official website for the Gaire Lab at Texas Tech University School of Veterinary Medicine"
+description: "Official website for the Gaire Lab at Texas Tech University School of Veterinary Medicine - One Health, Antimicrobial Resistance & Infectious Diseases"
 
 url: "https://gairelab.github.io"
-baseurl: ""
+baseurl: ""   # Important: keep empty for .github.io repos
 
-# Permalink and Markdown
 permalink: pretty
 markdown: kramdown
 
-# Pagination (for news)
+# Pagination for news
 paginate: 5
 paginate_path: "news/page:num"
 
-# Plugins
 plugins:
   - jekyll-paginate
 
-# Optional: better build settings
+# Optional but helpful
 future: true
+timezone: America/Chicago
