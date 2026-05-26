@@ -2,6 +2,7 @@
 title: Research in the Gaire Lab
 layout: research
 group: research
+permalink: /research/
 ---
 
 # Gaire Lab Research
@@ -19,7 +20,7 @@ We are broadly interested in:
   – How the gut microbiome influences colonization, virulence, persistence of pathogens, and response to antimicrobial therapy  
 
 - **One Health–oriented surveillance and data integration**  
-  – Integrating animal, environmental, and (when relevant) human data to track AMR and zoonotic threats across the food chain  
+  – Integrating animal, environmental, and, when relevant, human data to track AMR and zoonotic threats across the food chain  
 
 - **Quantitative and translational approaches to AMR mitigation**  
   – Design and evaluation of microbiome- and management-based interventions to reduce AMR and improve food safety  
@@ -27,6 +28,42 @@ We are broadly interested in:
 ---
 
 ## What are we doing?
+
+Current and emerging projects in the lab include:
+
+- **Longitudinal field studies in commercial livestock systems**  
+  Tracking AMR, microbiome composition, and pathogen carriage in food animals.
+
+- **Resistome and microbiome profiling using high-throughput sequencing**  
+  Characterizing how antimicrobial use, host factors, and production practices shape antimicrobial resistance genes and microbial communities.
+
+- **One Health AMR surveillance pilots**  
+  Linking fecal, environmental, and downstream data, when appropriate, to understand transmission pathways and hotspots of AMR.
+
+- **Method development for AMR risk assessment**  
+  Building and testing analytical pipelines that connect field data, sequencing outputs, and epidemiologic models to support decision-making.
+
+---
+
+## How are we doing it?
+
+We use an integrated toolkit that combines:
+
+- **Epidemiology and field-based sampling**  
+  Study design, risk factor analysis, and longitudinal sampling in animal production systems.
+
+- **High-throughput sequencing and bioinformatics**  
+  Shotgun metagenomics, targeted sequencing, and reproducible pipelines for resistome and microbiome analysis.
+
+- **Quantitative modeling and data science**  
+  Multilevel models, mathematical modeling, and network/One Health frameworks to understand AMR dynamics and evaluate interventions.
+
+- **Collaborative and translational approaches**  
+  Working with veterinarians, producers, and public health partners to co-develop feasible AMR mitigation strategies and translate evidence into practice.
+
+---
+
+Check out our [publications](/publications/) and [lab news](/news/) for recent research highlights from the lab.
 
 Current and emerging projects in the lab include:
 
