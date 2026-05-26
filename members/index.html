@@ -2,100 +2,56 @@
 title: Gaire Lab Members
 layout: members
 group: members
+permalink: /members/
 ---
 
 <h1>Gaire Lab Members</h1>
 
-{% for person in site.data.members %}
-<hr>
+<p class="lead">
+  We are a growing research group at the Texas Tech University School of Veterinary Medicine
+  working at the intersection of epidemiology, microbial genomics, microbiome science,
+  antimicrobial resistance, and food safety.
+</p>
 
-<div id="{{ person.name | slugify }}" class="row" style="padding-top: 60px; margin-top: -60px;">
+{% assign groups = "Principal Investigator,Current Team" | split: "," %}
 
-  <div class="col-sm-4">
+{% for group in groups %}
+  {% assign people = site.data.members | where: "group", group %}
 
-    <img
-      class="img-fluid"
-      src="{{ person.image | relative_url }}"
-      {% if person.altimage %}
-        onmouseover="this.src='{{ person.altimage | relative_url }}';"
-        onmouseout="this.src='{{ person.image | relative_url }}';"
-      {% endif %}
-      alt="{{ person.name }}"
-      width="365"
-      height="365"
-    >
-    <br>
+  {% if people.size > 0 %}
+    <h2 class="mt-5">{{ group }}</h2>
+    <hr>
 
-    <strong>{{ person.name }}</strong><br>
+    {% for person in people %}
+      <div id="{{ person.name | slugify }}" class="row mb-5">
 
-    {% if person.pronouns %}
-      <em>{{ person.pronouns }}</em><br>
-    {% endif %}
+        <div class="col-md-3">
+          <img
+            class="img-fluid rounded shadow-sm"
+            src="{{ person.image | relative_url }}"
+            alt="{{ person.name }}"
+          >
 
-    {{ person.position }}<br>
+          <h4 class="mt-3">{{ person.name }}</h4>
 
-    {% if person.email %}
-      <em>{{ person.email }}</em><br>
-    {% endif %}
+          {% if person.pronouns %}
+            <p><em>{{ person.pronouns }}</em></p>
+          {% endif %}
 
-    {% if person.website %}
-      <a style="overflow-wrap: break-word;" href="{{ person.website }}">
-        {{ person.website }}
-      </a><br>
-    {% endif %}
+          <p><strong>{{ person.position }}</strong></p>
 
-    {% if person.orcid %}
-      <a href="https://orcid.org/{{ person.orcid }}">
-        <img class="inline-block mem-icon" src="{{ '/static/img/orcidid_logo.svg' | relative_url }}" alt="ORCID">
-      </a>
-      <a href="https://orcid.org/{{ person.orcid }}">{{ person.orcid }}</a><br>
-    {% endif %}
+          {% if person.email %}
+            <p><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+          {% endif %}
+        </div>
 
-    {% if person.linkedin %}
-      <a href="https://www.linkedin.com/in/{{ person.linkedin }}">
-        <img class="inline-block mem-icon" src="{{ '/static/img/lin_logo.svg' | relative_url }}" alt="LinkedIn">
-      </a>
-      <a href="https://www.linkedin.com/in/{{ person.linkedin }}">{{ person.linkedin }}</a><br>
-    {% endif %}
+        <div class="col-md-9">
+          <div>
+            {{ person.description | markdownify }}
+          </div>
+        </div>
 
-    {% if person.UCSF %}
-      <a href="https://profiles.ucsf.edu/profile/{{ person.UCSF }}">
-        <img class="inline-block mem-icon" src="{{ '/static/img/ucsf_logo_black.svg' | relative_url }}" alt="UCSF">
-      </a>
-      <a href="https://profiles.ucsf.edu/profile/{{ person.UCSF }}">Profile</a><br>
-    {% endif %}
-
-    {% if person.scholar %}
-      <a href="https://scholar.google.com/citations?user={{ person.scholar }}">
-        <img class="inline-block mem-icon" src="{{ '/static/img/gscholar_logo.svg' | relative_url }}" alt="Google Scholar">
-      </a>
-      <a href="https://scholar.google.com/citations?user={{ person.scholar }}">Scholar Citations</a><br>
-    {% endif %}
-
-    {% if person.twitter %}
-      <a href="https://twitter.com/{{ person.twitter }}">
-        <img class="inline-block mem-icon" src="{{ '/static/img/twitter2_logo.svg' | relative_url }}" alt="Twitter">
-      </a>
-      <a href="https://twitter.com/{{ person.twitter }}">@{{ person.twitter }}</a><br>
-    {% endif %}
-
-    {% if person.github %}
-      <a href="https://github.com/{{ person.github }}">
-        <img class="inline-block mem-icon" src="{{ '/static/img/github_logo.svg' | relative_url }}" alt="GitHub">
-      </a>
-      <a href="https://github.com/{{ person.github }}">{{ person.github }}</a><br>
-    {% endif %}
-
-  </div>
-
-  <div class="col-sm-8">
-    <div class="text-justify">
-      {{ person.description | markdownify }}
-    </div>
-  </div>
-
-</div>
-
+      </div>
+    {% endfor %}
+  {% endif %}
 {% endfor %}
-
-<hr>
