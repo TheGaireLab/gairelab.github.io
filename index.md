@@ -27,7 +27,7 @@ We are located in the School of Veterinary Medicine building in Amarillo, Texas.
       <a href="https://link.springer.com/article/10.1186/s40168-022-01312-0" target="_blank">
         <img
           src="{{ '/static/img/publications/bmc_microbiome.webp' | relative_url }}"
-          alt="Microbiome publication"
+          alt="BMC Microbiome"
           class="img-fluid rounded shadow-sm"
         >
       </a>
@@ -47,7 +47,7 @@ We are located in the School of Veterinary Medicine building in Amarillo, Texas.
       <a href="https://doi.org/10.1093/molbev/msaf261" target="_blank">
         <img
           src="{{ '/static/img/publications/m_molbev.jpeg' | relative_url }}"
-          alt="Molecular Biology and Evolution publication"
+          alt="Molecular Biology and Evolution"
           class="img-fluid rounded shadow-sm"
         >
       </a>
