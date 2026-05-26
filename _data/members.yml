@@ -3,16 +3,15 @@
   image: /static/img/members/tara-gaire.jpg
   pronouns: he/him/his
   position: Principal Investigator
-  email: tgaire (at) ttu.edu
+  email: tgaire@ttu.edu
   description: >-
     Assistant Professor, School of Veterinary Medicine, Texas Tech University.
     Veterinarian–epidemiologist focused on One Health, antimicrobial resistance,
     infectious diseases, and microbiome–pathogen interactions in livestock systems.
-    **Education:** BVSc (DVM) and MS, Nepal; Ph.D., Kansas State University;
-    Postdoctoral training, University of Minnesota.
+    Education: BVSc (DVM) and MS, Nepal; PhD, Kansas State University;
+    postdoctoral training, University of Minnesota.
 
 # PhD Students
-# (Add entries below as PhD students join the lab.)
 # - name:
 #   image: /static/img/members/your-phd-student.jpg
 #   pronouns:
@@ -22,7 +21,6 @@
 #     Short bio goes here.
 
 # MS Students
-# (Add entries below as MS students join the lab.)
 # - name:
 #   image: /static/img/members/your-ms-student.jpg
 #   pronouns:
