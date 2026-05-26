@@ -9,7 +9,11 @@
 - name: publications
   link: "/publications/"
   group: publications
-
+  
+- name: news
+  link: "/news/"
+  group: news
+  
 - name: members
   link: "/members/"
   group: members
