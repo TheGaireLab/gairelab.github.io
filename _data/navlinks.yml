@@ -21,7 +21,3 @@
 - name: contact
   link: "/contact/"
   group: contact
-
-# - name: links
-#   link: "/links/"
-#   group: links
