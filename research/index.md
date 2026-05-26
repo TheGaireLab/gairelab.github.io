@@ -1,8 +1,6 @@
-# Gaire Lab Research
+We investigate how microbiomes, pathogens, and antimicrobial-resistant microbes interact within animal host populations, and how these interactions influence animal health, food safety, and public health.
 
-The Gaire Lab investigates how microbiomes, pathogens, and antimicrobial resistance interact within animal host populations, and how these interactions influence animal health, food safety, and public health.
-
-We integrate **molecular epidemiology**, **microbiome science and pathogen genomics**, and **computational/bioinformatics approaches** to address applied **One Health** questions in livestock and food production systems.
+Our work integrates **molecular epidemiology**, **microbiome science and pathogen genomics**, and **computational/bioinformatics approaches** to address applied **One Health** questions in livestock and food production systems.
 
 ## Research Focus Areas
 
@@ -28,7 +26,7 @@ The emergence and spread of antimicrobial resistance (AMR), together with the tr
 
 ---
 
-### Computational Biology and Bioinformatics
+### Computational/Bioinformatics
 
 We apply molecular sequencing and improved computational/quantitative methods to analyze complex microbiome, resistome, and pathogen genome datasets. Our goal is to translate high-dimensional sequencing data into practical insights for infectious disease control, AMR mitigation, and food safety.
 
