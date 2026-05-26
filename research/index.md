@@ -26,7 +26,7 @@ The emergence and spread of antimicrobial resistance (AMR), together with the tr
 
 ---
 
-### Computational/Bioinformatics
+### Computational / Bioinformatics
 
 We apply molecular sequencing and improved computational/quantitative methods to analyze complex microbiome, resistome, and pathogen genome datasets. Our goal is to translate high-dimensional sequencing data into practical insights for infectious disease control, AMR mitigation, and food safety.
 
