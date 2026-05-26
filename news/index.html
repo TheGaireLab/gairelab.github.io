@@ -1,6 +1,21 @@
 ---
-title: News from the Gaire Lab
-layout: postlist
+title: News
+layout: default
 group: news
+permalink: /news/
 ---
 
+<h1>Lab News</h1>
+
+<div class="container-fluid">
+
+  {% for item in site.data.news %}
+    <div class="mb-4">
+      <h4>{{ item.title }}</h4>
+      <p class="text-muted">{{ item.month }}</p>
+      <p>{{ item.text }}</p>
+    </div>
+    <hr>
+  {% endfor %}
+
+</div>
