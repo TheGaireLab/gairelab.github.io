@@ -1,7 +1,8 @@
 ---
-title: Contact the Gaire Lab
-layout: default
+title: Contact
+layout: page
 group: contact
+permalink: /contact/
 ---
 
 # Contact the Gaire Lab
