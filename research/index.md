@@ -1,3 +1,4 @@
+
 ---
 title: Research in the Gaire Lab
 layout: research
@@ -7,60 +8,44 @@ permalink: /research/
 
 # Gaire Lab Research
 
-The Gaire Lab studies how antimicrobial resistance (AMR), pathogens, and the microbiome interact across animal, environmental, and human domains. Our program integrates basic and applied, outcome-driven research that informs and supports animal health, food safety, and broader public health within a One Health framework.
+The Gaire Lab investigates how microbiomes, pathogens, and antimicrobial resistance interact within animal host populations, and how these interactions influence animal health, food safety, and public health.
 
-## Research Focus
+We integrate **molecular epidemiology**, **microbiome science**, **pathogen genomics**, **bioinformatics**, and **quantitative approaches** to address applied **One Health** questions in livestock and food production systems.
 
-We are broadly interested in:
+## Research Focus Areas
 
-- **Ecology and dynamics of antimicrobial resistance in livestock production systems**  
-  – How management practices, antimicrobial use, sourcing, and production environments shape AMR emergence and persistence  
+### Applied Genomic Epidemiology
 
-- **Microbiome–pathogen interactions in disease and treatment outcomes**  
-  – How the gut microbiome influences colonization, virulence, persistence of pathogens, and response to antimicrobial therapy  
+The spread of viral and bacterial pathogens in animal populations and the environment poses significant risks to both animal and public health. This research program explores how host–microbe–pathogen interactions shape pathogen diversity, evolution, and disease risk. We study bacterial and viral pathogens of importance to animal agriculture and public health.
 
-- **One Health–oriented surveillance and data integration**  
-  – Integrating animal, environmental, and, when relevant, human data to track AMR and zoonotic threats across the food chain  
+**Current research includes:**
 
-- **Quantitative and translational approaches to AMR mitigation**  
-  – Design and evaluation of microbiome- and management-based interventions to reduce AMR and improve food safety  
+- Molecular epidemiology and evolution of key viral pathogens (e.g., influenza) in livestock
+- Respiratory microbiome dynamics and *Streptococcus suis* disease in swine, with a focus on strain-level diversity using integrated epidemiologic and genomic approaches
 
 ---
 
-## What are we doing?
+### Microbiomes, Resistome, and Food Safety
 
-Current and emerging projects in the lab include:
+The emergence and spread of antimicrobial resistance (AMR), together with the transmission of microbial pathogens from animals to humans, is a major One Health challenge. We investigate how the microbiome can be leveraged to reduce AMR and associated public health risks. Our work focuses on identifying practical, microbiome-based strategies (e.g., dietary or management interventions) to lower AMR while improving food safety.
 
-- **Longitudinal field studies in commercial livestock systems**  
-  Tracking AMR, microbiome composition, and pathogen carriage in food animals.
+**Current projects include:**
 
-- **Resistome and microbiome profiling using high-throughput sequencing**  
-  Characterizing how antimicrobial use, host factors, and production practices shape antimicrobial resistance genes and microbial communities.
-
-- **One Health AMR surveillance pilots**  
-  Linking fecal, environmental, and downstream data, when appropriate, to understand transmission pathways and hotspots of AMR.
-
-- **Method development for AMR risk assessment**  
-  Building and testing analytical pipelines that connect field data, sequencing outputs, and epidemiologic models to support decision-making.
+- Liver abscess microbiome and foodborne pathogen ecology in cattle
+- Phenotypic, genotypic, and fitness characterization of multidrug-resistant *Salmonella enterica*
 
 ---
 
-## How are we doing it?
+### Computational Biology and Bioinformatics
 
-We use an integrated toolkit that combines:
+We develop and apply advanced sequencing technologies and computational/quantitative methods to analyze complex microbiome, resistome, and pathogen genome datasets. Our goal is to translate high-dimensional sequencing data into actionable insights for infectious disease control, AMR mitigation, and food safety.
 
-- **Epidemiology and field-based sampling**  
-  Study design, risk factor analysis, and longitudinal sampling in animal production systems.
+**Current projects include:**
 
-- **High-throughput sequencing and bioinformatics**  
-  Shotgun metagenomics, targeted sequencing, and reproducible pipelines for resistome and microbiome analysis.
+- Development of an improved computational workflow for rapid AMR risk assessment in food production microbiomes
 
-- **Quantitative modeling and data science**  
-  Multilevel models, mathematical modeling, and network/One Health frameworks to understand AMR dynamics and evaluate interventions.
+## Research Approach
 
-- **Collaborative and translational approaches**  
-  Working with veterinarians, producers, and public health partners to co-develop feasible AMR mitigation strategies and translate evidence into practice.
+Across all projects, we combine field and laboratory data with high-throughput sequencing, bioinformatics, and statistical modeling. Our overarching goal is to generate actionable knowledge that informs and supports evidence-based strategies to improve health outcomes for animals and humans in shared environments.
 
----
-
-Check out our [publications](/publications/) and [lab news](/news/) for recent research highlights from the lab.
+For recent work from the lab, see our [publications]({{ '/publications/' | relative_url }}) and [lab news]({{ '/news/' | relative_url }}).
