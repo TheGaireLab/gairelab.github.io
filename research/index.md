@@ -1,10 +1,18 @@
 We investigate how microbiomes, pathogens, and antimicrobial-resistant microbes interact within animal host populations, and how these interactions influence animal health, food safety, and public health.
 
-Our work integrates **molecular epidemiology**, **microbiome science and pathogen genomics**, and **computational/bioinformatics approaches** to address applied **One Health** questions in livestock and food production systems.
+Our work integrates molecular epidemiology, microbiome science and pathogen genomics, and computational/bioinformatics approaches to address applied One Health questions in livestock and food production systems.
 
 ## Research Focus Areas
 
 ### Applied Genomic Epidemiology
+
+<p align="center">
+  <img
+    src="{{ '/static/img/research/applied_genomic_epidemiology.png' | relative_url }}"
+    alt="Applied genomic epidemiology"
+    width="650"
+  >
+</p>
 
 The spread of viral and bacterial pathogens in animal populations and the environment poses significant risks to both animal and public health. This research program explores how host–microbe–pathogen interactions shape pathogen diversity, evolution, and disease risk. We study bacterial and viral pathogens of importance to animal agriculture and public health.
 
@@ -17,6 +25,14 @@ The spread of viral and bacterial pathogens in animal populations and the enviro
 
 ### Microbiomes, Resistomes, and Food Safety
 
+<p align="center">
+  <img
+    src="{{ '/static/img/research/microbiomes_resistomes_food_safety.png' | relative_url }}"
+    alt="Microbiomes resistomes and food safety"
+    width="650"
+  >
+</p>
+
 The emergence and spread of antimicrobial resistance (AMR), together with the transmission of microbial pathogens from animals to humans, is a major One Health challenge. We investigate how the microbiome, including alternative dietary strategies, can be leveraged to reduce the persistence of AMR within animal microbiomes.
 
 **Current projects include:**
@@ -26,7 +42,15 @@ The emergence and spread of antimicrobial resistance (AMR), together with the tr
 
 ---
 
-### Computational / Bioinformatics
+### Computational/Bioinformatics
+
+<p align="center">
+  <img
+    src="{{ '/static/img/research/computational_bioinformatics.png' | relative_url }}"
+    alt="Computational biology and bioinformatics"
+    width="650"
+  >
+</p>
 
 We apply molecular sequencing and improved computational/quantitative methods to analyze complex microbiome, resistome, and pathogen genome datasets. Our goal is to translate high-dimensional sequencing data into practical insights for infectious disease control, AMR mitigation, and food safety.
 
