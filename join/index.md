@@ -1,7 +1,8 @@
 ---
 title: Join the Gaire Lab
-layout: default
+layout: page
 group: join
+permalink: /join/
 ---
 
 # Join the Gaire Lab
