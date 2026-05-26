@@ -1,8 +1,8 @@
 name: "Gaire Lab"
 description: "Official website for the Gaire Lab at Texas Tech University School of Veterinary Medicine - One Health, Antimicrobial Resistance & Infectious Diseases"
 
-url: "https://thegairelab.github.io"
-baseurl: "/gairelab.github.io"
+url: "https://gairelab.com"
+baseurl: ""
 
 permalink: pretty
 markdown: kramdown
