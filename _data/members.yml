@@ -7,8 +7,6 @@
   description: |
     Assistant Professor, School of Veterinary Medicine, Texas Tech University.
 
-    **Training**
-
     **Postdoctoral Training**  
     University of Minnesota  
     College of Veterinary Medicine
@@ -19,7 +17,6 @@
 
     **BVSc/DVM and MS in Veterinary Medicine**  
     Nepal
-    
 
 # Graduate Students
 - name: Ranjita Bastola
@@ -33,7 +30,6 @@
     microbial ecology and pathogen genomics of bovine liver abscess disease,
     using microbiome sequencing and whole-genome sequencing approaches.
 
-
 # Veterinary Research Scholars
 - name: Khale Lucero
   image: /static/img/members/default-member.jpg
@@ -42,18 +38,7 @@
   group: Current Team
   email:
   description: >-
-    Khale is a Veterinary Research Scholar in the Gaire Lab. His research will
-    focus on dairy calf health, infectious disease, and microbiome-related
-    questions in livestock systems.
-    
-
-  # Research Staff
-- name: 
-  image: /static/img/members/default-member.jpg
-  pronouns:
-  position: Research Assistant
-  group: Current Team
-  email:
-  description: >-
-    Research assistant joining the Gaire Lab to support microbiome, pathogen
-    genomics, and food safety research projects.
+    Khale is a Veterinary Research Scholar and summer scholar in the Gaire Lab,
+    starting in June 2026. His research will focus on management factors associated
+    with respiratory disease, diarrhea, and microbiome development during the
+    preweaning period in beef-on-dairy and Holstein calves.
