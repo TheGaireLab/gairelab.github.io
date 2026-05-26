@@ -4,17 +4,19 @@ layout: home
 group: home
 ---
 
-# Welcome to the Gaire Lab
-{: .display-3}
+<div class="home-hero mb-4 text-center">
+  <img
+    src="{{ '/static/img/mainpage.png' | relative_url }}"
+    alt="Gaire Lab research overview"
+    class="img-fluid"
+  >
+</div>
 
-The Gaire Lab is part of the School of Veterinary Medicine at Texas Tech University, with a focus on One Health and infectious disease at the animal–human–environment interface.
-{: .welcomefont}
-
-We study how antimicrobial resistance, pathogens, and the microbiome interact in livestock and other animal populations, and how those interactions impact animal health, food safety, and public health.
-{: .welcomefont}
-
-We are located in the School of Veterinary Medicine building in Amarillo, Texas.
-{: .welcomefont}
+<div class="text-center mb-4">
+  <a class="btn btn-outline-dark m-2" href="{{ '/members/' | relative_url }}">People</a>
+  <a class="btn btn-outline-dark m-2" href="{{ '/publications/' | relative_url }}">Publications</a>
+  <a class="btn btn-outline-dark m-2" href="{{ '/research/' | relative_url }}">Research</a>
+</div>
 
 <hr>
 
@@ -27,7 +29,7 @@ We are located in the School of Veterinary Medicine building in Amarillo, Texas.
       <a href="https://link.springer.com/article/10.1186/s40168-022-01312-0" target="_blank">
         <img
           src="{{ '/static/img/publications/bmc_microbiome.webp' | relative_url }}"
-          alt="BMC Microbiome"
+          alt="Microbiome publication"
           class="img-fluid rounded shadow-sm"
         >
       </a>
@@ -47,7 +49,7 @@ We are located in the School of Veterinary Medicine building in Amarillo, Texas.
       <a href="https://doi.org/10.1093/molbev/msaf261" target="_blank">
         <img
           src="{{ '/static/img/publications/m_molbev.jpeg' | relative_url }}"
-          alt="Molecular Biology and Evolution"
+          alt="Molecular Biology and Evolution publication"
           class="img-fluid rounded shadow-sm"
         >
       </a>
