@@ -1,9 +1,20 @@
+```html
 ---
 title: Gaire Lab Members
 layout: members
 group: members
 permalink: /members/
 ---
+
+<style>
+  .member-photo {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+</style>
 
 <h1>Gaire Lab Members</h1>
 
@@ -27,7 +38,7 @@ permalink: /members/
 
         <div class="col-md-3">
           <img
-            class="img-fluid rounded shadow-sm"
+            class="member-photo rounded shadow-sm"
             src="{{ person.image | relative_url }}"
             alt="{{ person.name }}"
           >
@@ -55,3 +66,4 @@ permalink: /members/
     {% endfor %}
   {% endif %}
 {% endfor %}
+```
