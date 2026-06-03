@@ -1,6 +1,8 @@
 - name: Tara N. Gaire
   image: /static/img/members/tara-gaire.jpg
   position: Principal Investigator
+  group: Principal Investigator
+  email: tgaire@ttu.edu
   description: |
     Assistant Professor, School of Veterinary Medicine, Texas Tech University.
 
@@ -30,7 +32,6 @@
 # Veterinary Research Scholars
 - name: Khale Lucero
   image: /static/img/members/IMG_Khale.jpeg
-  pronouns:
   position: Veterinary Research Scholar
   group: Current Team
   email:
@@ -44,9 +45,8 @@
     microbiome development during the preweaning period in beef-on-dairy and
     Holstein calves.
 
-- name: Monet Hunt
+- name: Monet Hunt 
   image: /static/img/members/IMG_Monet.jpeg
-  pronouns:
   position: Veterinary Research Scholar
   group: Current Team
   email:
@@ -59,3 +59,4 @@
     swine health and farm environmental microbiomes, with an emphasis on farm
     hygiene, disease monitoring, and the connections among environmental
     microbes, animal health, and public health outcomes.
+
