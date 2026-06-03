@@ -1,8 +1,7 @@
+```yml
 - name: Tara N. Gaire
   image: /static/img/members/tara-gaire.jpg
   position: Principal Investigator
-  group: Principal Investigator
-  email: tgaire@ttu.edu
   description: |
     Assistant Professor, School of Veterinary Medicine, Texas Tech University.
 
@@ -31,13 +30,35 @@
 
 # Veterinary Research Scholars
 - name: Khale Lucero
-  image: /static/img/members/default-member.jpg
+  image: /static/img/members/IMG_Khale.jpeg
   pronouns:
   position: Veterinary Research Scholar
   group: Current Team
   email:
   description: >-
-    Khale is a Veterinary Research Scholar and summer scholar in the Gaire Lab,
-    starting in June 2026. His research will focus on management factors associated
-    with respiratory disease, diarrhea, and microbiome development during the
-    preweaning period in beef-on-dairy and Holstein calves.
+    Khale is originally from Bloomfield, New Mexico. Before Texas Tech, he earned
+    his bachelor’s degree in Animal Science from New Mexico State University in
+    2025. He is currently pursuing a DVM at the Texas Tech University School of
+    Veterinary Medicine, with aspirations of becoming a mixed animal practitioner
+    or further advancing his education. Khale’s summer research focuses on how
+    management factors are associated with respiratory disease, diarrhea, and
+    microbiome development during the preweaning period in beef-on-dairy and
+    Holstein calves.
+
+- name: Monet
+  image: /static/img/members/IMG_Monet.jpeg
+  pronouns:
+  position: Veterinary Research Scholar
+  group: Current Team
+  email:
+  description: >-
+    Monet was raised in Broadview, New Mexico, where she found her passion for
+    working with large animals. She completed her Animal Science degree at New
+    Mexico State University. She is currently pursuing her DVM at the Texas Tech
+    University School of Veterinary Medicine, with the goal of helping rural
+    communities across New Mexico and Texas. Her summer research focuses on
+    swine health and farm environmental microbiomes, with an emphasis on farm
+    hygiene, disease monitoring, and the connections among environmental
+    microbes, animal health, and public health outcomes.
+```
+
