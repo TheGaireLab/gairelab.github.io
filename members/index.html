@@ -13,6 +13,10 @@ permalink: /members/
     object-position: center;
     display: block;
   }
+
+  .member-info {
+    text-align: left;
+  }
 </style>
 
 <h1>Gaire Lab Members</h1>
@@ -35,7 +39,7 @@ permalink: /members/
     {% for person in people %}
       <div id="{{ person.name | slugify }}" class="row mb-5">
 
-        <div class="col-md-3">
+        <div class="col-md-3 member-info">
           <img
             class="member-photo rounded shadow-sm"
             src="{{ person.image | relative_url }}"
@@ -43,10 +47,6 @@ permalink: /members/
           >
 
           <h4 class="mt-3">{{ person.name }}</h4>
-
-          {% if person.pronouns %}
-            <p><em>{{ person.pronouns }}</em></p>
-          {% endif %}
 
           <p><strong>{{ person.position }}</strong></p>
 
