@@ -1,9 +1,33 @@
 {% include header.html %}
 
-<div class="col-sm-3 smalltxt">
-  <br>
-  {% capture sidebar %}{% include alumni_sidebar.md %}{% endcapture %}
-  {{ sidebar | markdownify }}
+<style>
+  .member-photo {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+
+  .member-info {
+    text-align: left;
+  }
+</style>
+
+<div class="container px-2" style="max-width: 100%;">
+  <img
+    class="img-fluid"
+    src="/static/img/members/WisemanLabcirca2024Bannerv1.png"
+    title="The Group circa 2024"
+    alt="Gaire Lab Members"
+  >
+
+  <div class="row">
+    <div class="col-sm-12">
+      <br>
+      {{ content }}
+    </div>
+  </div>
 </div>
 
 {% include footer.html %}
