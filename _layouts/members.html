@@ -1,16 +1,14 @@
-<style>
-  .member-photo {
-    width: 220px;
-    height: 220px;
-    object-fit: cover;
-    object-position: center;
-    display: block;
-  }
-</style>
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
 
-<img
-  class="member-photo rounded shadow-sm"
-  src="{{ person.image | relative_url }}"
-  alt="{{ person.name }}"
->
+  <body>
+    {% include header.html %}
 
+    <main class="container mt-4">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+  </body>
+</html>
