@@ -17,6 +17,17 @@
     Nepal
 
 # Graduate Students
+- name: Selena Gilyot
+  position: PhD Student
+  group: Current Team
+  image: /static/img/selena.jpg
+  description: >
+    Selena is a research assistant and will begin her PhD in Fall 2026.
+    She earned her graduate degree in public health from Kansas State University (KSU).
+    Her PhD research focuses on bovine respiratory disease (BRD) in beef cattle,
+    with an emphasis on epidemiology, microbial ecology, and factors influencing
+    respiratory health.
+    
 - name: Ranjita Bastola
   image: /static/img/members/RB.jpeg
   pronouns:
