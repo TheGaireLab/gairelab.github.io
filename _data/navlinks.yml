@@ -13,6 +13,10 @@
 - name: news
   link: "/news/"
   group: news
+
+- name: gallery
+  link: "/gallery/"
+  group: gallery
   
 - name: members
   link: "/members/"
