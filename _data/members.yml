@@ -17,6 +17,17 @@
     Nepal
 
 # Graduate Students
+- name: Luis Alvarez
+  position: PhD Student
+  group: Current Team
+  image: /static/img/LA.jpeg
+  description: >
+    Luis is originally from Peru, where he earned his DVM and MS in
+    Molecular Biology. He is currently pursuing his PhD in the Gaire Lab.
+    His research focuses on the molecular epidemiology of Streptococcus suis
+    disease in commercial swine production, with an emphasis on pathogen
+    genomics and disease epidemiology.
+    
 - name: Selena Gilyot
   position: PhD Student
   group: Current Team
